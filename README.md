@@ -37,7 +37,7 @@
 ![Endpoint 3 p2](https://github.com/user-attachments/assets/a278c750-d4f7-4779-ab11-53d5a80d8b6e)
 
 
-#### Endpoint 4: '/api/users/<int:id_user/>'    (Extra)
+#### Endpoint 4: `/api/users/<int:id_user/>`    (Extra)
 ### Expected Outcomes
 #### - Retrieve a single user with the his/her data based on id_user
 ![Endpoint 4](https://github.com/user-attachments/assets/c158a188-a81d-46d1-8fb7-a532bbeabacf)
