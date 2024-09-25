@@ -8,4 +8,4 @@
 ### - Allow users to retrieve their own transactions based on user ID
 ### Endpoint 5: `/api/reports/` (GET)
 ### - Implement an endpoint that generates financial reports, such as monthly or yearly
-summaries of transactions, for a given user
+### summaries of transactions, for a given user
