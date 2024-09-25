@@ -14,9 +14,16 @@
 
 ## Test Cases With Postman
 #### Endpoint 1: `/api/transactions/` (GET and POST)
-#### - This endpoint should allow users to list and create financial transactions. Each transaction should
-#### have fields like `transaction_date`, `description`, `amount`, and `user_id`.
+#### Each transaction should have fields like `transaction_date`, `description`, `amount`, and `user_id`.
 
 #### Expected Outcoumes
-#### DRF show all transactions created
-![Endpoint 1](https://github.com/user-attachments/assets/91970607-86e3-4e26-af1b-cd0527317388)
+#### - This endpoint should allow users to list and create financial transactions
+![Endpoint 1](https://github.com/user-attachments/assets/91970607-86e3-4e26-af1b-cd0527317388 )
+
+
+
+#### Endpoint 2: `/api/transactions/<transaction_id>/` (GET, PUT, and DELETE)
+#### Expected Outcomes
+#### - This endpoint should allow users to retrieve, update, and delete individual financial transactions
+#### based on their unique IDs.
+![Endpoint 2](https://github.com/user-attachments/assets/f77484c1-9198-4321-83d2-f74e78c1b3c0)
