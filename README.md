@@ -35,3 +35,4 @@
 #### - Create an endpoint to list all registered users.
 ![Endpoint 3](https://github.com/user-attachments/assets/2dbda35e-b6e9-4c3f-99ab-2b52eb7c9508)
 
+
